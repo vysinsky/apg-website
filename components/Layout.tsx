@@ -31,7 +31,7 @@ export const Layout: FC = () => (
           target="_blank"
           rel="nofollow noreferrer"
         >
-          <FontAwesomeIcon className="h-20" icon={faFacebook} />
+          <FontAwesomeIcon className="w-20 h-20" icon={faFacebook} />
         </a>
         <a
           href="https://twitter.com/almost_purrfect"
@@ -40,7 +40,7 @@ export const Layout: FC = () => (
           target="_blank"
           rel="nofollow noreferrer"
         >
-          <FontAwesomeIcon className="h-20" icon={faTwitter} />
+          <FontAwesomeIcon className="w-20 h-20" icon={faTwitter} />
         </a>
         <a
           href="https://www.instagram.com/almost_purrfect_games/"
@@ -49,7 +49,7 @@ export const Layout: FC = () => (
           target="_blank"
           rel="nofollow noreferrer"
         >
-          <FontAwesomeIcon className="h-20" icon={faInstagram} />
+          <FontAwesomeIcon className="w-20 h-20" icon={faInstagram} />
         </a>
       </nav>
     </div>
