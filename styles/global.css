@@ -3,5 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-primary;
+  @apply bg-fcLight;
+  @apply text-fcDark;
+  @apply min-h-full;
 }
