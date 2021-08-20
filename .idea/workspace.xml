@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="861be036-269a-49fe-8944-ed248a55ef87" name="Default Changelist" comment="basic setup" />
+    <list default="true" id="861be036-269a-49fe-8944-ed248a55ef87" name="Default Changelist" comment="chore: update .idea settings">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +38,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -43,6 +49,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1tDycZZAettXefUxlCTGwut2c5r" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -117,6 +126,7 @@
       <workItem from="1629316470975" duration="153000" />
       <workItem from="1629485845660" duration="15000" />
       <workItem from="1629486385266" duration="107000" />
+      <workItem from="1629486551636" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="wip">
       <created>1622442164087</created>
@@ -146,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628981141895</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chore: update .idea settingsg">
+      <created>1629486602059</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629486602059</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +184,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="wip" />
     <MESSAGE value="basic setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic setup" />
+    <MESSAGE value="chore: update .idea settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: update .idea settings" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
