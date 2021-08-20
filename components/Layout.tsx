@@ -16,6 +16,8 @@ export const Layout: FC = () => (
         src="/logo.svg"
         alt="Almost Purrfect Games Logo"
         className="w-5/6 max-w-md"
+        width="448"
+        height="448"
       />
       <h2 className="font-display text-xl px-10 py-10 md:py-14">
         Indie video game development studio
