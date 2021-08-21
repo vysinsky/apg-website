@@ -3,6 +3,7 @@ import {
   faFacebook,
   faTwitter,
   faInstagram,
+  faDiscord,
 } from '@fortawesome/free-brands-svg-icons'
 import React, { FC } from 'react'
 
@@ -52,6 +53,15 @@ export const Layout: FC = () => (
           rel="nofollow noreferrer"
         >
           <FontAwesomeIcon className="w-20 h-20" icon={faInstagram} />
+        </a>
+        <a
+          href="https://discord.gg/Jdn7SWhK"
+          className="block text-fcDark hover:text-fcBlue focus:text-fcBlue transition-colors duration-700"
+          title="Join Discord community"
+          target="_blank"
+          rel="nofollow noreferrer"
+        >
+          <FontAwesomeIcon className="w-20 h-20" icon={faDiscord} />
         </a>
       </nav>
     </footer>
