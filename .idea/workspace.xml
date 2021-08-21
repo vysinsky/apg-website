@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="feat: basic simple layout">
-      <change afterPath="$PROJECT_DIR$/public/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mstile-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mstile-310x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mstile-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mstile-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/site.webmanifest" afterDir="false" />
+    <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="feat: favicon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -47,6 +34,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1x0L7Wm5AH9X4v1wBxEQAQcVPi3" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -111,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629486893497</updated>
       <workItem from="1629486895800" duration="5325000" />
-      <workItem from="1629574197253" duration="216000" />
+      <workItem from="1629574197253" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="chore: update .idea settings">
       <created>1629486938639</created>
@@ -134,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629492264754</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: favicon">
+      <created>1629574423842</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629574423842</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +153,7 @@
     <MESSAGE value="chore: update .idea settings" />
     <MESSAGE value="build(npm): upgrade packages" />
     <MESSAGE value="feat: basic simple layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: basic simple layout" />
+    <MESSAGE value="feat: favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: favicon" />
   </component>
 </project>

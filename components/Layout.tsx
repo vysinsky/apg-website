@@ -7,23 +7,23 @@ import {
 import React, { FC } from 'react'
 
 export const Layout: FC = () => (
-  <main>
-    <div className="flex flex-col flex-grow justify-between items-center text-center">
+  <main className="flex flex-col h-screen">
+    <div className="flex flex-col flex-1 h-full justify-between items-center text-center">
       <h1 className="font-display text-3xl px-10 py-10 md:py-14">
         Almost Purrfect Games
       </h1>
       <img
         src="/logo.svg"
         alt="Almost Purrfect Games Logo"
-        className="w-5/6 max-w-md"
-        width="448"
-        height="448"
+        className="w-1/3 max-w-md"
+        width="250"
+        height="250"
       />
       <h2 className="font-display text-xl px-10 py-10 md:py-14">
         Indie video game development studio
       </h2>
     </div>
-    <div className="w-full px-20 py-5 shadow-inner text-center bg-white">
+    <footer className="w-full flex-none px-20 py-5 shadow-inner text-center bg-white">
       <h3 className="font-display text-sm">Follow us on social</h3>
       <nav className="flex max-w-2xl justify-between align-middle m-auto pt-10 text-6xl">
         <a
@@ -54,6 +54,6 @@ export const Layout: FC = () => (
           <FontAwesomeIcon className="w-20 h-20" icon={faInstagram} />
         </a>
       </nav>
-    </div>
+    </footer>
   </main>
 )
