@@ -24,9 +24,9 @@ export const Layout: FC = () => (
         Indie video game development studio
       </h2>
     </div>
-    <footer className="w-full flex-none px-20 py-5 shadow-inner text-center bg-white">
+    <footer className="w-full flex-none px-2 py-5 shadow-inner text-center bg-white">
       <h3 className="font-display text-sm">Follow us on social</h3>
-      <nav className="flex max-w-2xl justify-between align-middle m-auto pt-10 text-6xl">
+      <nav className="flex w-full max-w-2xl justify-around align-middle m-auto pt-10 text-6xl">
         <a
           href="https://www.facebook.com/AlmostPurrfectGames"
           className="block text-fcDark hover:text-fcBlue focus:text-fcBlue transition-colors duration-700"

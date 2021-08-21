@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="feat: analytics">
+    <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="feat: add discord link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629486893497</updated>
       <workItem from="1629486895800" duration="5325000" />
-      <workItem from="1629574197253" duration="2424000" />
+      <workItem from="1629574197253" duration="2893000" />
     </task>
     <task id="LOCAL-00001" summary="chore: update .idea settings">
       <created>1629486938639</created>
@@ -158,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629576110740</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: add discord link">
+      <created>1629576915464</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629576915464</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +191,7 @@
     <MESSAGE value="feat: favicon" />
     <MESSAGE value="fix: sizing" />
     <MESSAGE value="feat: analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: analytics" />
+    <MESSAGE value="feat: add discord link" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add discord link" />
   </component>
 </project>
