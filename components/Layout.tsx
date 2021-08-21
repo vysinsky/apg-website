@@ -7,23 +7,9 @@ import {
 } from '@fortawesome/free-brands-svg-icons'
 import React, { FC } from 'react'
 
-export const Layout: FC = () => (
-  <main className="flex flex-col h-screen">
-    <div className="flex flex-col flex-1 h-full justify-between items-center text-center">
-      <h1 className="font-display text-3xl px-10 pt-10 pb-2 md:py-14">
-        Almost Purrfect Games
-      </h1>
-      <img
-        src="/logo.svg"
-        alt="Almost Purrfect Games Logo"
-        className="w-1/3 max-w-md"
-        width="250"
-        height="250"
-      />
-      <h2 className="font-display text-xl px-10 pt-2 pb-10 md:py-14">
-        Indie video game development studio
-      </h2>
-    </div>
+export const Layout: FC = ({ children }) => (
+  <main className="flex flex-col min-h-screen">
+    {children}
     <footer className="w-full flex-none px-2 py-5 shadow-inner text-center bg-white">
       <h3 className="font-display text-sm">Follow us on social</h3>
       <nav className="flex w-full max-w-2xl justify-around align-middle m-auto pt-10 text-6xl">

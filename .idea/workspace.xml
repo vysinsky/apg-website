@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="feat: add discord link">
+    <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="fix: gaps between social icons">
+      <change afterPath="$PROJECT_DIR$/pages/games/fastcube/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/games/fastcube/privacy.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fastcube/game-over.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fastcube/gameplay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fastcube/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fastcube/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fastcube/pause.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -52,7 +61,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/games/fastcube" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -65,9 +74,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\apg-website\pages\games\fastcube" />
+      <recent name="D:\Code\apg-website\public\fastcube" />
       <recent name="D:\Code\apg-website\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\apg-website\pages\games\fastcube" />
       <recent name="D:\Code\apg-website\public" />
     </key>
   </component>
@@ -108,7 +120,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629486893497</updated>
       <workItem from="1629486895800" duration="5325000" />
-      <workItem from="1629574197253" duration="2893000" />
+      <workItem from="1629574197253" duration="6127000" />
     </task>
     <task id="LOCAL-00001" summary="chore: update .idea settings">
       <created>1629486938639</created>
@@ -166,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629576915464</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix: gaps between social icons">
+      <created>1629577142587</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629577142587</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +211,7 @@
     <MESSAGE value="fix: sizing" />
     <MESSAGE value="feat: analytics" />
     <MESSAGE value="feat: add discord link" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add discord link" />
+    <MESSAGE value="fix: gaps between social icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: gaps between social icons" />
   </component>
 </project>
