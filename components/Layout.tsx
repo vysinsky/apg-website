@@ -9,7 +9,7 @@ import React, { FC } from 'react'
 export const Layout: FC = () => (
   <main className="flex flex-col h-screen">
     <div className="flex flex-col flex-1 h-full justify-between items-center text-center">
-      <h1 className="font-display text-3xl px-10 py-10 md:py-14">
+      <h1 className="font-display text-3xl px-10 pt-10 pb-2 md:py-14">
         Almost Purrfect Games
       </h1>
       <img
@@ -19,7 +19,7 @@ export const Layout: FC = () => (
         width="250"
         height="250"
       />
-      <h2 className="font-display text-xl px-10 py-10 md:py-14">
+      <h2 className="font-display text-xl px-10 pt-2 pb-10 md:py-14">
         Indie video game development studio
       </h2>
     </div>

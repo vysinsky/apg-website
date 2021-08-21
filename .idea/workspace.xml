@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="feat: favicon">
+    <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="fix: sizing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629486893497</updated>
       <workItem from="1629486895800" duration="5325000" />
-      <workItem from="1629574197253" duration="980000" />
+      <workItem from="1629574197253" duration="1341000" />
     </task>
     <task id="LOCAL-00001" summary="chore: update .idea settings">
       <created>1629486938639</created>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629574423842</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix: sizing">
+      <created>1629575194211</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629575194211</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +162,7 @@
     <MESSAGE value="build(npm): upgrade packages" />
     <MESSAGE value="feat: basic simple layout" />
     <MESSAGE value="feat: favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: favicon" />
+    <MESSAGE value="fix: sizing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: sizing" />
   </component>
 </project>
