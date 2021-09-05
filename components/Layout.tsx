@@ -8,8 +8,8 @@ import {
 import React, { FC } from 'react'
 
 export const Layout: FC = ({ children }) => (
-  <main className="flex flex-col min-h-screen">
-    {children}
+  <main className="flex flex-col h-screen overflow-hidden">
+    <div className="flex-grow overflow-auto overflow-x-hidden">{children}</div>
     <footer className="w-full flex-none px-2 py-5 shadow-inner text-center bg-white">
       <h3 className="font-display text-sm">Follow us on social</h3>
       <nav className="flex w-full max-w-2xl justify-around align-middle m-auto pt-10 text-6xl">

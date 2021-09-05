@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1ee066b-c6b0-4c4b-abbe-3bade2b57137" name="Changes" comment="fix: gaps between social icons">
-      <change afterPath="$PROJECT_DIR$/pages/games/fastcube/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/games/fastcube/privacy.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fastcube/game-over.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fastcube/gameplay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fastcube/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fastcube/main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fastcube/pause.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,5 +205,9 @@
     <MESSAGE value="feat: add discord link" />
     <MESSAGE value="fix: gaps between social icons" />
     <option name="LAST_COMMIT_MESSAGE" value="fix: gaps between social icons" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
