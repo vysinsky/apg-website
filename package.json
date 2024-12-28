@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "format": "prettier --write .",
-    "prepare": "husky install"
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
