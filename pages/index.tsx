@@ -21,7 +21,7 @@ export default function IndexPage() {
       <section className="flex flex-wrap pb-10">
         <Link href="/games/fastcube">
           <a className="max-w-sm p-2">
-            <h3 className="font-display text-md py-2">FastCube</h3>
+            <h3 className="font-display text-md py-2">FastCube [inactive]</h3>
             <img src="/fastcube/logo.jpg" alt="FastCube" />
           </a>
         </Link>

@@ -9,7 +9,7 @@ export default function FastcubePage() {
           <a className="text-fcDark underline">Almost Purrfect Games</a>
         </Link>
         &nbsp;-&nbsp;
-        <span className="text-fcGreen">FastCube</span>
+        <span className="text-fcGreen">FastCube [inactive]</span>
       </h1>
       <img
         src="/fastcube/logo.jpg"
@@ -18,17 +18,17 @@ export default function FastcubePage() {
         width="512"
         height="512"
       />
-      <a
-        className="w-1/2 md:w-1/4 lg:w-1/6 max-w-md"
-        target="_blank"
-        rel="noreferrer nofollow"
-        href="https://play.google.com/store/apps/details?id=games.almost_purrfect.fastcube&utm_source=apg-website&utm_campaign=apg-website&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
-      >
-        <img
-          alt="Get it on Google Play"
-          src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-        />
-      </a>
+      {/*<a*/}
+      {/*  className="w-1/2 md:w-1/4 lg:w-1/6 max-w-md"*/}
+      {/*  target="_blank"*/}
+      {/*  rel="noreferrer nofollow"*/}
+      {/*  href="https://play.google.com/store/apps/details?id=games.almost_purrfect.fastcube&utm_source=apg-website&utm_campaign=apg-website&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"*/}
+      {/*>*/}
+      {/*  <img*/}
+      {/*    alt="Get it on Google Play"*/}
+      {/*    src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"*/}
+      {/*  />*/}
+      {/*</a>*/}
       <small className="text-xs">
         Google Play and the Google Play logo are trademarks of Google LLC.
       </small>
