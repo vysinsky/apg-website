@@ -1,3 +1,5 @@
-import { FC } from 'react'
+import { FC, PropsWithChildren } from 'react'
 
-export const Box: FC = ({ children }) => <div>{children}</div>
+export const Box: FC<PropsWithChildren> = ({ children }) => (
+  <div>{children}</div>
+)

@@ -5,24 +5,24 @@ export default function FastcubePrivacyPage() {
   return (
     <div className="flex flex-col flex-1 min-h-full justify-between items-center text-center">
       <h1 className="font-display text-3xl px-10 pt-10 pb-2 md:py-14">
-        <Link href="/">
-          <a className="text-fcDark underline">Almost Purrfect Games</a>
+        <Link href="/" className="text-fcDark underline">
+          Almost Purrfect Games
         </Link>
         &nbsp;-&nbsp;
-        <Link href="/games/fastcube">
-          <a className="text-fcDark underline">FastCube</a>
+        <Link href="/games/fastcube" className="text-fcDark underline">
+          FastCube
         </Link>
         &nbsp;-&nbsp;
         <span className="text-fcGreen">Privacy Policy</span>
       </h1>
       <section className="container p-20">
         <p>
-          <Link href="/games/fastcube">
-            <a className="underline text-fcBlue">FastCube</a>
+          <Link href="/games/fastcube" className="underline text-fcBlue">
+            FastCube
           </Link>{' '}
           is developed by{' '}
-          <Link href="/">
-            <a className="underline text-fcBlue">Almost Purrfect Games</a>
+          <Link href="/" className="underline text-fcBlue">
+            Almost Purrfect Games
           </Link>
           . I know privacy and security is important to user of FastCube and
           this Privacy Policy will help you understand what information we

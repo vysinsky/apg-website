@@ -5,8 +5,8 @@ export default function FastcubePage() {
   return (
     <div className="flex flex-col flex-1 min-h-full justify-between items-center text-center">
       <h1 className="font-display text-3xl px-10 pt-10 pb-2 md:py-14">
-        <Link href="/">
-          <a className="text-fcDark underline">Almost Purrfect Games</a>
+        <Link href="/" className="text-fcDark underline">
+          Almost Purrfect Games
         </Link>
         &nbsp;-&nbsp;
         <span className="text-fcGreen">FastCube [inactive]</span>
@@ -29,9 +29,9 @@ export default function FastcubePage() {
       {/*    src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"*/}
       {/*  />*/}
       {/*</a>*/}
-      <small className="text-xs">
-        Google Play and the Google Play logo are trademarks of Google LLC.
-      </small>
+      {/*<small className="text-xs">*/}
+      {/*  Google Play and the Google Play logo are trademarks of Google LLC.*/}
+      {/*</small>*/}
       <h2 className="font-display text-xl px-10 pt-2 pb-10 md:py-14">
         Infinite runner game for Android.
       </h2>
@@ -58,9 +58,7 @@ export default function FastcubePage() {
         />
       </section>
       <h3 className="font-display text-md px-10 py-2">
-        <Link href="/games/fastcube/privacy">
-          <a>Privacy policy</a>
-        </Link>
+        <Link href="/games/fastcube/privacy">Privacy policy</Link>
       </h3>
     </div>
   )
